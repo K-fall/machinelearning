@@ -54,13 +54,13 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 <h3 id="2">机器学习基础与回归算法文章与代码：</h3>
 
-|文章 | 代码|
----|---
-[梯度下降（Gradient Descent）小结](https://www.cnblogs.com/pinard/p/5970503.html) | 无
-[最小二乘法小结](https://www.cnblogs.com/pinard/p/5976811.html) |无
+|文章 | 代码|进度|
+---|---|---
+[梯度下降（Gradient Descent）小结](https://www.cnblogs.com/pinard/p/5970503.html) | 无|yes
+[最小二乘法小结](https://www.cnblogs.com/pinard/p/5976811.html) |无|yes
 [交叉验证(Cross Validation)原理小结](https://www.cnblogs.com/pinard/p/5992719.html) | 无
 [精确率与召回率，RoC曲线与PR曲线](https://www.cnblogs.com/pinard/p/5993450.html) |无
-[线性回归原理小结](https://www.cnblogs.com/pinard/p/6004041.html) |无
+[线性回归原理小结](https://www.cnblogs.com/pinard/p/6004041.html) |无|yes
 [机器学习研究与开发平台的选择](https://www.cnblogs.com/pinard/p/6007200.html) | 无
 [scikit-learn 和pandas 基于windows单机机器学习环境的搭建](https://www.cnblogs.com/pinard/p/6013484.html) |无
 [用scikit-learn和pandas学习线性回归](https://www.cnblogs.com/pinard/p/6016029.html) |[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/linear-regression.ipynb)
@@ -71,13 +71,13 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 <h3 id="3">机器学习分类算法文章与代码：</h3>
 
-|文章 | 代码|
----|---
-[逻辑回归原理小结](https://www.cnblogs.com/pinard/p/6029432.html) |无
+|文章 | 代码|进度|
+---|---|---
+[逻辑回归原理小结](https://www.cnblogs.com/pinard/p/6029432.html) |无|yes
 [scikit-learn 逻辑回归类库使用小结](https://www.cnblogs.com/pinard/p/6035872.html) |无
 [感知机原理小结](https://www.cnblogs.com/pinard/p/6042320.html) |无
-[决策树算法原理(上)](https://www.cnblogs.com/pinard/p/6050306.html) |无
-[决策树算法原理(下)](https://www.cnblogs.com/pinard/p/6053344.html)|无
+[决策树算法原理(上)](https://www.cnblogs.com/pinard/p/6050306.html) |无|yes
+[决策树算法原理(下)](https://www.cnblogs.com/pinard/p/6053344.html)|无|yes
 [scikit-learn决策树算法类库使用小结](https://www.cnblogs.com/pinard/p/6056319.html) |[代码1](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/decision_tree_classifier.ipynb) [代码2](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/decision_tree_classifier_1.ipynb)
 [K近邻法(KNN)原理小结](https://www.cnblogs.com/pinard/p/6061661.html) |无
 [scikit-learn K近邻法类库使用小结](https://www.cnblogs.com/pinard/p/6065607.html) |[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/knn_classifier.ipynb)
